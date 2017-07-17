@@ -1,2 +1,2 @@
 # SpeleoSite
-Map/Pin android app where speleo sites can be added on a walk
+ASP.net MVC web app to display SpeleoSite Android App locations
